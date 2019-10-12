@@ -1,0 +1,12 @@
+{
+  "name": "xrp",
+  "version": "1.0.0",
+  "description": "Testing the new xpring-js library",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "Davidson Edwards",
+  "license": "ISC"
+}
